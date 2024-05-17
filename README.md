@@ -2,8 +2,8 @@
 
 `pip install -r requirements.txt`
 
-!([cat](https://github.com/andybrier/QWEN-VL-Boxing/blob/main/cat.jpeg))
-!([cat-boxing](https://github.com/andybrier/QWEN-VL-Boxing/blob/main/cat-box.jpg))
+![cat](https://github.com/andybrier/QWEN-VL-Boxing/blob/main/cat.jpeg)
+![cat-boxing](https://github.com/andybrier/QWEN-VL-Boxing/blob/main/cat-box.jpg)
 
 ## 说明
 
